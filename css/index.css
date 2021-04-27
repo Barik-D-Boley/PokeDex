@@ -11,4 +11,10 @@ body, html {
   text-decoration: none;
   color: #597865;
 }
+
+.charmander {
+  max-width: auto;
+  max-height: auto;
+  background-color: #597865;
+}
 /*# sourceMappingURL=index.css.map */
