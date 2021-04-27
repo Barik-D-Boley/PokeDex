@@ -1,9 +1,14 @@
-body {
+body, html {
   margin: 0;
+  color: #597865;
 }
 
-a {
+#header {
+  color: #597865;
+}
+
+.nav-link {
   text-decoration: none;
-  color: black;
+  color: #597865;
 }
 /*# sourceMappingURL=index.css.map */

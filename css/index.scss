@@ -1,7 +1,15 @@
-body {
+$text-light: #597865;
+
+body,html {
     margin: 0;
+    color: $text-light;
 }
-a {
+
+#header{
+    color: $text-light
+}
+
+.nav-link {
     text-decoration: none;
-    color: black;
+    color: $text-light;
 }
