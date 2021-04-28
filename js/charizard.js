@@ -72,4 +72,9 @@ let input = `{
       }
     ],
     "weight": 905
-  }`
+}`
+
+let parse = JSON.parse(input);
+
+document.getElementById("name").innerHTML = parse.name;
+document.getElementById("intro").innerHTML = parse.intro;
