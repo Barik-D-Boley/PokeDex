@@ -138,3 +138,5 @@ document.getElementById("typesTitle").innerHTML = Object.keys(parse)[8];
     //Box 2
     document.getElementById("type2").innerHTML = Object.keys(parse.types[0])[1] + ": " + parse.types[1].type.name;
     document.getElementById("slot2").innerHTML = Object.keys(parse.types[0])[0] + ": " + parse.types[1].slot;
+
+document.body.innerHTML = document.body.innerHTML.replace(/_/g, " ");

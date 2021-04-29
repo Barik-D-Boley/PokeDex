@@ -1,3 +1,13 @@
 body {
   margin: 0;
+  background-color: orangered;
 }
+
+.rowBackground {
+  background-color: white;
+}
+
+.subBackground {
+  background-color: gray;
+}
+/*# sourceMappingURL=index.css.map */
