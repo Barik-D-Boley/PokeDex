@@ -1,6 +1,33 @@
 body {
   margin: 0;
-  background-color: orangered;
+}
+
+body a {
+  text-decoration: none;
+}
+
+.charmander {
+  background-color: #dc3545;
+}
+
+.charizard {
+  background-color: #ffc107;
+}
+
+.charmeleon {
+  background-color: #198754;
+}
+
+.btn-danger {
+  background-color: #dc3545;
+}
+
+.btn-warning {
+  background-color: #ffc107;
+}
+
+.btn-success {
+  background-color: #198754;
 }
 
 .rowBackground {
